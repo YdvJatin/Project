@@ -1,0 +1,26 @@
+{
+  "user1": {
+    "name": "Chaman",
+    "dob": "20-12-2004",
+    "colour": "White",
+    "genre": "Thriller",
+    "music": "Phonk",
+    "state": "Andhra Pradesh",
+    "sports": "Yes",
+    "zodiac": "Aries",
+    "season": "Spring",
+    "beverage": "Tea"
+  },
+  "user2": {
+    "name": "Chumtiya",
+    "dob": "19-03-2005",
+    "colour": "Red",
+    "genre": "Thriller",
+    "music": "Hindi",
+    "state": "Andhra Pradesh",
+    "sports": "Yes",
+    "zodiac": "Aries",
+    "season": "Spring",
+    "beverage": "Tea"
+  }
+}
